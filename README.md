@@ -69,6 +69,8 @@ THEN I am presented instead with the login page
 ​
 - Live Site URL: [Let's Frickin Game](https://)
 
+- URL of original repo with team commits: [URL of original repo with team commits](https://github.com/jmonty94/lets-fricking-game)
+
 ### License
 This project is licensed under an MIT license
 
