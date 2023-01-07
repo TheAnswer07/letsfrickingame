@@ -67,7 +67,7 @@ THEN I am presented instead with the login page
 
 ### Links
 ​
-- Live Site URL: [Let's Frickin Game](https://lets-frickin-game.herokuapp.com/)
+- Live Site URL: [Let's Frickin Game](https://)
 
 ### License
 This project is licensed under an MIT license
@@ -143,6 +143,4 @@ Some ideas we have for future features we want to add are:
 - [Daniel Holloway](https://github.com/VendettiStudios)
 - [Michael Harris](https://github.com/Snufalufakis)
 - [Moussa Dia](https://github.com/TheAnswer07)
-
-## Acknowledgments
 ​
